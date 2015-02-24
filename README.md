@@ -2,7 +2,7 @@
 
 A simple PHP application illustrating how to use simple storage service of the AWS SDK for PHP.
 
-## Requirements
+## Requirements (Optional)
 
 A `composer.json` file declaring the dependency on the AWS SDK is provided. To
 install Composer and the SDK, run:
